@@ -41,6 +41,8 @@ bundle install --path vendor/bundle
 bundle exec jekyll serve
 ```
 
+On debian you need `sudo apt install ruby-bundle ruby-dev`
+
 Once running the site can be opened at [http://localhost:4000](http://localhost:4000).
 
 ## Docker
